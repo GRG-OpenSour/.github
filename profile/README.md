@@ -88,7 +88,7 @@
 
 | Проект | Описание | Ссылка |
 |--------|----------|--------|
-| WB Analytics | Платформа для анализа продаж и прогнозирования с ML и дашбордами. | [ai-wb-analytics](https://github.com/GRG-OpenSource/ai-wb-analytics) |
+| WB Analytics | Платформа для анализа продаж и прогнозирования с ML и дашбордами. | [ai-wb-analytics](https://github.com/GRG-OpenSource/WB_Analytics) |
 | AICryptoCore | AI-платформа для криптовалютной торговли с арбитражем и анализом рынка. | [ai-aicryptocore](https://github.com/GRG-OpenSource/ai-aicryptocore) |
 | AstroBot | AI-бот для генерации астрологического контента и управления пользователями. | [ai-astrobot](https://github.com/GRG-OpenSource/ai-astrobot) |
 
